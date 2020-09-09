@@ -1,5 +1,5 @@
 # Text-summation-using-NLP
-This repository uses NLP to summarize a article.
+This repository uses NLP to summarize a article
 
 
 Text summarization alludes to the procedure of shortening long bits of text. The expectation is to make a reasonable and familiar text having just the central matters plot in the record. 
